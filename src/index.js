@@ -7,7 +7,7 @@ export const todoList = new TodoList();
 // todoList.todos.forEach(todo => crearTodoHtml( todo ));
 todoList.todos.forEach(crearTodoHtml);
 
-todoList.todos[0].imprimirTodo();
+// todoList.todos[0].imprimirTodo();
 
 
 // const tarea = new Todo('Aprender javascript');
